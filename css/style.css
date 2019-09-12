@@ -1,0 +1,41 @@
+body {
+  font-family: sans-serif;
+}
+
+.btn {
+  margin: 25px auto;
+  display: block;
+}
+
+.row {
+	margin-left: auto;
+	margin-right: auto;
+
+}
+
+.regcircle {
+  height: 150px;
+  width: 150px;
+  background-color: black;
+  border-radius: 50%;
+  margin: 25px auto;
+  transition: background 500ms;
+  opacity: '1'
+}
+
+.square {
+  height: 150px;
+  width: 150px;
+  background-color: black;
+  margin: 25px auto;
+  transition: background 500ms;
+}
+
+.bigcircle {
+  height: 300px;
+  width: 300px;
+  background-color: black;
+  border-radius: 50%;
+  margin: 25px auto;
+  transition: background 500ms;
+}
